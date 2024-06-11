@@ -1,4 +1,4 @@
-#simples
+ #simples
 '''class veiculo:
     def __init__(self, cor, placa, modelo):
         self.cor = cor
